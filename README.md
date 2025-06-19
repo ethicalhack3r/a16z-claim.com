@@ -9,3 +9,7 @@ https://x.com/a16z/status/1935467524042407955
 
 VirusTotal scan:
 https://www.virustotal.com/gui/url/b428c252d15ce0454313f29a1c5339dff764cc62b6c320e2214fb302e3472b2a/details
+
+## Screenshot of a16z-claim[.]com domain
+
+![Screenshot](https://github.com/ethicalhack3r/a16z-claim.com/blob/main/screenshot.png?raw=true")
